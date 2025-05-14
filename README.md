@@ -93,8 +93,7 @@ export default App;
 ```
 App.css
 ```
-/* General Styles */
-* {
+{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -127,7 +126,6 @@ h1 {
   font-weight: 700;
 }
 
-/* Input Group Styling */
 .input-group {
   margin-bottom: 20px;
 }
@@ -154,7 +152,6 @@ h1 {
   background-color: #ffffff;
 }
 
-/* Button Styling */
 .buttons {
   display: flex;
   justify-content: space-between;
@@ -190,7 +187,6 @@ h1 {
   background-color: #d32f2f;
 }
 
-/* Result Section */
 .result {
   margin-top: 25px;
   padding: 15px;
